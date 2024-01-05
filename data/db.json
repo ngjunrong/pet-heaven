@@ -1,0 +1,15 @@
+{
+  "adopt": [
+    {
+      "name": "Ng Jun Rong",
+      "email": "jr@gmail.com",
+      "number": "91221111",
+      "petName": "Louis",
+      "petType": "cat",
+      "reason": "I love cats!",
+      "id": 1
+    }
+  ],
+  "release": [],
+  "contact": []
+}
